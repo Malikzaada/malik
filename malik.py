@@ -845,6 +845,6 @@ def cutter():
     print(47*'-')
     input(f"{S} Press Enter To Back SB Menu ")
     SSB(allkey)
-
+SSB()
  
 
