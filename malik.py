@@ -844,10 +844,7 @@ def cutter():
     print("New File Saved:" + sarfraz )
     print(47*'-')
     input(f"{S} Press Enter To Back SB Menu ")
-    SSB(allkey)       
-    
-def removef():
-        os.system('rm -rf self.file');print(f'\n{R}Files Removed Successfully ...')
-        SB(allkey)            
+    SSB(allkey)
+
  
 
